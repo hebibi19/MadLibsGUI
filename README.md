@@ -42,7 +42,9 @@ Download the .zip file and make sure that all files are in one folder
 
 ### Usage
 
+example of how to use:
 
+![example](demo_gifs/example.gif)
 
 ## Built Using
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
