@@ -4,6 +4,8 @@ a Mad Libs game. Complete with three unique stories.
 
 ## About The Project
 
+![Intro]
+
 ## Getting Started
 
 ### Prerequisties
