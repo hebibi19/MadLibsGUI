@@ -4,7 +4,7 @@ a Mad Libs game. Complete with three unique stories.
 
 ## About The Project
 
-![Intro]
+![Intro](demo_gifs/intro.gif)
 
 ## Getting Started
 
@@ -41,6 +41,8 @@ Download the .zip file and make sure that all files are in one folder
 4. Enjoy!
 
 ### Usage
+
+
 
 ## Built Using
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
